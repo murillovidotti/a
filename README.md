@@ -9,4 +9,4 @@ O controle de tarefas desse projeto será realizada no GitHub
 :package: nova funcionalidade
 :up: atualização
 :dizzy_face: correção de bugs
-:tada: release
+:checkered_flag: release
